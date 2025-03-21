@@ -1,4 +1,4 @@
-package org.jade.hitcooldownsync;
+package org.jade.modid;
 
 import net.fabricmc.api.ClientModInitializer;
 

@@ -1,18 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "attackcooldownsync",
+  "id": "modid",
   "version": "${version}",
   "name": "Attack Cooldown Resync",
   "description": "",
   "authors": [],
-  "contact": {
-    "repo": "https://github.com/catgirljade/AttackCooldownSunc"
-  },
+  "contact": {},
   "license": "All-Rights-Reserved",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "org.jade.hitcooldownsync.ModClient"
+      "org.jade.modid.ModClient"
     ]
 
   },
