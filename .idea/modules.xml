@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AttackCooldownSync.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AttackCooldownSync.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AttackCooldownSync.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AttackCooldownSync.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemplateProject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TemplateProject.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemplateProject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TemplateProject.test.iml" />
     </modules>
