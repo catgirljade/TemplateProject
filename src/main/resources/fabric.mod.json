@@ -12,9 +12,9 @@
     "client": [
       "org.jade.modid.ModClient"
     ]
-
   },
   "mixins": [
+    "modid.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
