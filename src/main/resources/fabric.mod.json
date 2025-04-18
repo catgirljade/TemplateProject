@@ -11,7 +11,8 @@
   "entrypoints": {
     "client": [
       "org.jade.modid.ModClient"
-    ]
+    ],
+
   },
   "mixins": [
     "modid.mixins.json"
